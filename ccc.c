@@ -4,6 +4,6 @@
 int main() {
     // Write C code here
     printf("Hello world");
-
+        printf("Hello mundo");
     return 0;
 }
